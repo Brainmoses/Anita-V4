@@ -43,7 +43,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## `Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
+## `Connect With Me```<img src="https://files.catbox.moe/se5e6e.jpg width ="80"></h1> 
  <br> 
 <p align="center">
 <a href="https://wa.me/2376765578899"><img src="https://img.shields.io/badge/Contact centerlcee-25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
